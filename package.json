@@ -1,0 +1,19 @@
+{
+  "name": "spotifyplaylistproject",
+  "version": "1.0.0",
+  "description": "Udacity Spotify Playlist Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bclajr/spotifyPlaylistProject.git"
+  },
+  "author": "Ben Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bclajr/spotifyPlaylistProject/issues"
+  },
+  "homepage": "https://github.com/Bclajr/spotifyPlaylistProject#readme"
+}
