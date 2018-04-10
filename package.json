@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bclajr/spotifyPlaylistProject/issues"
   },
-  "homepage": "https://github.com/Bclajr/spotifyPlaylistProject#readme"
+  "homepage": "https://github.com/Bclajr/spotifyPlaylistProject#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
 }
