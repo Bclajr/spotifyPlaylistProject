@@ -1,6 +1,5 @@
 html {
     background-color: #0e080c;
-    /* color: #1ED760; */
     margin: auto 30%;
 }
 
@@ -14,6 +13,17 @@ h1 {
 
 ul {
     margin-left: 11.1em;
+    padding-top: 1em;
+    font-size: 1.25em;
+}
+
+li {
+    padding-top: 0.25em;
+    letter-spacing: 0.1em;
+}
+
+a {
+    color: #1ed760;
 }
 
 .genre{
@@ -28,7 +38,8 @@ ul {
 }
 
 .album {
-    text-align: center;    
+    text-align: center;
+    padding-top: 1.25em;    
 }
 
 .video {
