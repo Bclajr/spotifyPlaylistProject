@@ -12,12 +12,16 @@ h1 {
     text-align: center;
 }
 
+ul {
+    margin-left: 11.1em;
+}
+
 .artist {
-    
+    margin-left: 4em;
 }
 
 .album {
-
+    text-align: center;    
 }
 
 .video {
