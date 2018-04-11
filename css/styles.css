@@ -16,8 +16,15 @@ ul {
     margin-left: 11.1em;
 }
 
+.genre{
+    border-bottom: white 2.5px solid;
+}
+
 .artist {
-    margin-left: 4em;
+    margin: auto 4em;
+    border-bottom: 1px #1ed760 solid;
+    padding-top: 1em;
+    font-size: 1.35em;
 }
 
 .album {
@@ -25,9 +32,5 @@ ul {
 }
 
 .video {
-    
-}
-
-.genre {
     
 }
